@@ -1,0 +1,8 @@
+{
+    "name": "Username/my-project",
+    "description": "My Opencart Project",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "minimum-stability": "dev"
+}
